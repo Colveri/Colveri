@@ -4,7 +4,7 @@ C'est moi ! *Colveri* !
 
 ### A propos de moi
 
-Je suis une lycéenne de 18 ans. J'adore l'électronique et un peu l'informatique (qu'est ce que je ferais là sinon ?!). Je fais NSI et Physique-Chimie en spécialités
+Je suis une lycéenne de 18 ans. J'adore l'électronique et un peu l'informatique (qu'est ce que je ferais là sinon ?!). Je fais donc NSI et Physique-Chimie en spécialités
 
 ### A propos de ce que je fais
 
