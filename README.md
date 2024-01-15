@@ -1,11 +1,9 @@
-- 🔭 Je travaille actuellement sur un détecteur d'étoiles sur des photos de ciel étoilé.
-- 🌱 En ce moment, j'apprends surtout le C pour me perfectionner avec Arduino.
-- 👯 J'aime bien collaborer avec [e_psi-lon](https://github.com/e-psi-lon) !
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Je travaille sur : Un détecteur d'étoiles sur des photos de ciel étoilé.
+- 🌱 J'apprends : Surtout le C pour me perfectionner avec Arduino.
+- 👯 Collabs : J'aime bien collaborer avec [e_psi-lon](https://github.com/e-psi-lon) !
+- 📫 Comment me contacter : Vous pouvez me contacter via mon serveur discord (lien en bio)
+- 😄 A propos de moi : Je suis une lycéenne de 18 ans, je fais NSI et Physique-Chimie et je suis trans. Je crois que c'est tout ce qu'il y a d'important.
+- ☃️ Fun fact : J'aime la neige.
 - 
 <img src="https://github-readme-stats.vercel.app/api?username=Colveri&hide=issues&show_icons=true&theme=radical&count_private=true&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colveri&layout=compact&theme=radical&count_private=true&show_icons=true"/>
