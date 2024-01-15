@@ -17,7 +17,7 @@
 
 <h3 align="left">Retrouvez moi sur:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/colveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="colveri" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@colveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="colveri" height="30" width="40" /></a>
 <h3>Plus de liens sur mon profil !</h3>
 </p>
 
