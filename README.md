@@ -4,7 +4,7 @@
 - 📫 Comment me contacter : Vous pouvez me contacter via mon serveur discord (lien en bio)
 - 😄 A propos de moi : Je suis une lycéenne de 18 ans, je fais NSI et Physique-Chimie et je suis trans. Je crois que c'est tout ce qu'il y a d'important.
 - ☃️ Fun fact : J'aime la neige.
-- 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Colveri&hide=issues&show_icons=true&theme=radical&count_private=true&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colveri&layout=compact&theme=radical&count_private=true&show_icons=true"/>
 
