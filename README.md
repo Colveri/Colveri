@@ -1,15 +1,12 @@
-### Coucouuu !
-
-C'est moi ! *Colveri* !
-
-### A propos de moi
-
-Je suis une lycéenne de 18 ans. J'adore l'électronique et un peu l'informatique (qu'est ce que je ferais là sinon ?!). Je fais donc NSI et Physique-Chimie en spécialités
-
-### A propos de ce que je fais
-
-J'essaie de m'améliorer dans mes cours, avec l'aide en plus d'[e-psi-lon](https://github.com/e-psi-lon). Je fais un peu de Python, HTML, CSS, JS (basique vous me direz...) et jefais du C sur Arduino !
-
+- 🔭 Je travaille actuellement sur un détecteur d'étoiles sur des photos de ciel étoilé.
+- 🌱 En ce moment, j'apprends surtout le C pour me perfectionner avec Arduino.
+- 👯 J'aime bien collaborer avec [github.com/e_](https://github.com/e-psi-lon) !
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 
 <img src="https://github-readme-stats.vercel.app/api?username=Colveri&hide=issues&show_icons=true&theme=radical&count_private=true&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colveri&layout=compact&theme=radical&count_private=true&show_icons=true"/>
 
