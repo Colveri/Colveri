@@ -7,7 +7,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Colveri&hide=issues&show_icons=true&theme=radical&count_private=true&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colveri&layout=compact&theme=radical&count_private=true&show_icons=true"/>
-
+![](https://komarev.com/ghpvc/?username=Colveri&color=dc143c)
 <!--
 **Colveri/Colveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
