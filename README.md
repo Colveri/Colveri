@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colveri" alt="colveri" /></a> </p>
 
-- 🔭 Je travaille sur : Un détecteur d'étoiles sur des photos de ciel étoilé.(https://github.com/Colveri/Analyse_ciel_etoile)
+- 🔭 Je travaille sur : Rien pour l'instant
 
 - 🌱 J'apprends : **Surtout le C pour me perfectionner avec Arduino.**
 
