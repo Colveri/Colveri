@@ -7,11 +7,11 @@
 
 - 🌱 J'apprends : **Surtout le C pour me perfectionner avec Arduino.**
 
-- 👯 Collabs : **J'aime bien collaborer avec [e_psi-lon](https://github.com/e-psi-lon) !**
+- 👯 Collabs : **J'aime bien collaborer avec [e-psi-lon](https://github.com/e-psi-lon) !**
 
 - 📫 Comment me contacter : [Mon serveur Discord](https://discord.gg/invite/fqSvJ6w42X)
 
-- 😄 A propos de moi : **Je suis une lycéenne de 18 ans, je fais NSI et Physique-Chimie et je suis trans. Je crois que c'est tout ce qu'il y a d'important.**
+- 😄 A propos de moi : **Nothing for now.**
 
 - ☃️ Fun fact : **J'aime la neige.**
 
