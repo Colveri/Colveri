@@ -9,7 +9,7 @@
 
 - 👯 Collabs : **J'aime bien collaborer avec [e-psi-lon](https://github.com/e-psi-lon) !**
 
-- 📫 Comment me contacter : [Mon serveur Discord](https://discord.gg/invite/fqSvJ6w42X)
+- 📫 Comment me contacter : [Mon serveur Discord](https://discord.gg/invite/inexistantpourlemoment)
 
 - 😄 A propos de moi : **Nothing for now.**
 
