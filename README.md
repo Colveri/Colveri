@@ -3,13 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colveri" alt="colveri" /></a> </p>
 
-- 🔭 Je travaille sur : Rien pour l'instant
-
-- 🌱 J'apprends : **Surtout le C pour me perfectionner avec Arduino.**
-
-- 👯 Collabs : **J'aime bien collaborer avec [e-psi-lon](https://github.com/e-psi-lon) !**
-
-- 📫 Comment me contacter : [Mon serveur Discord](https://discord.gg/invite/inexistantpourlemoment)
+- 📫 Comment me contacter : [Mon serveur Discord](https://discord.gg/invite/fqSvJ6w42X)
 
 - 😄 A propos de moi : **Nothing for now.**
 
